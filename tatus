@@ -1,0 +1,23 @@
+[33mcommit ef8856020dbe1bb0c1450f8b19686be6b802f4b9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Vladislav <salas88>
+Date:   Thu Apr 2 18:58:17 2020 +0300
+
+    add two new components
+
+[33mcommit 603de3510ed833b418a838eca78fee1469b0c7ac[m
+Author: Vladislav <salas88>
+Date:   Thu Apr 2 01:15:52 2020 +0300
+
+    add ItemList component
+
+[33mcommit acb0f4aabfbf4508890d9f003f02800311c02f6d[m
+Author: Vladislav <salas88>
+Date:   Thu Apr 2 01:10:35 2020 +0300
+
+    add structure for app, and add some components
+
+[33mcommit 77c78ebf8b478e6eb81b4c859c6a957829fe4855[m
+Author: Vladislav <salas88>
+Date:   Mon Mar 30 21:47:38 2020 +0300
+
+    add structure for react and connect to swapi_api, and create some api_object
